@@ -12,7 +12,7 @@ class MainViewController: UITabBarController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        view.backgroundColor = UIColor.clear
 //        addChildVc(storyName: "Home")
 //        addChildVc(storyName: "Live")
 //        addChildVc(storyName: "Follow")
